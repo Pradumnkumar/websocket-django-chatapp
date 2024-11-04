@@ -1,3 +1,7 @@
+'''
+This is equivalent to urls.py
+'''
+
 from django.urls import path
 from .consumers import *
 
